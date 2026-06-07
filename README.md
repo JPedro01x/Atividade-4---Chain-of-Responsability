@@ -1,5 +1,7 @@
 # Chain of Responsibility: Autenticação com login, sessão e permissão
-
+Atividade 04 em Dupla
+    João Pedro de Carvalho Bernardo
+    Marcos Henrique Carvalho de Souza
 ## Tema escolhido
 Autenticação usando a cadeia de responsabilidade (Chain of Responsibility):
 - `LoginHandler` -> verifica login e senha
